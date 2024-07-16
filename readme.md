@@ -11,6 +11,7 @@ This project is a simple web service that processes receipts and calculates poin
 ### Using Docker
 
 1. **Build the Docker image:**
+   Navigate to the root folder of this project and run this command:
 
    docker build -t receipt-processor .
 
